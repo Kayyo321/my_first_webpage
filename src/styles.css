@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  color: red;
+  display: inline-block;
+  /* background: #e6fff2; */
+  background: rgb(153, 255, 204);
+}
+
+img {
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+}
+div {
+  display: inline-block;
+}
